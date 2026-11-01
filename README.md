@@ -24,6 +24,14 @@ Already using **PIQ Offline 2 / PIQ Offline**? Install this as an **update**. **
 
 [More installation and connection help →](docs/GETTING_STARTED.md)
 
+## Original PIQ app no longer working?
+
+If your Duotone / North PIQ Android app is stuck at login or registration, PIQ Offline lets you use supported sensor features without the retired online service. It bypasses the initial login/register screens and uses a local profile. The original dashboard and PIQSCORE screens read downloaded sessions and local calculations instead of requesting server data.
+
+You can pair your kitesurf sensor, download recordings still on it, view sessions and save backups. This does not restore the old servers, online rankings or cloud history, and it cannot automatically import history from another installed app. Keep your original app and its data.
+
+[Download and installation help](docs/GETTING_STARTED.md)
+
 ## A familiar app, using local data
 
 <p>
@@ -66,6 +74,10 @@ History held only in an old app or the old cloud account cannot automatically be
 ## Found a problem or have an idea?
 
 [Open a GitHub issue](https://github.com/RimGu/PIQ-Offline/issues/new/choose). Include your phone model, Android version, app version and what happened. Screenshots help; please keep private backup ZIPs and personal recordings out of public issues.
+
+### Does it work on your phone?
+
+If you try PIQ Offline, [share a compatibility report](https://github.com/RimGu/PIQ-Offline/issues/new?template=compatibility_report.md). Successful tests are useful too: include your phone model, Android version, app build, and whether pairing, session download and backup worked. Report only what you actually tried; no need to erase data or reset your sensor.
 
 This is a community test build. Earlier builds were used successfully on a Galaxy S22 with Android 16; the latest build has focused emulator checks. Physical tracker behavior and every phone/provider combination are not fully verified.
 
