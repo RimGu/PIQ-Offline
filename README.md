@@ -4,7 +4,7 @@ Keep using your **Duotone / North PIQ kitesurf sensor** with sessions stored on 
 
 PIQ Offline is a community modification of the original Android app. It was created when the original online service stopped being usable, to help keep existing sensors useful and recordings accessible.
 
-> **Unofficial community project.** Independently maintained; not affiliated with, endorsed by or supported by PIQ, North or Duotone.
+[About this unofficial project and third-party rights](#about-piq-offline)
 
 <a href="downloads/PIQ-Offline-592.apk?raw=true"><img src="docs/images/download-android.svg" width="320" alt="Download PIQ Offline for Android — APK, build 592"></a>
 
