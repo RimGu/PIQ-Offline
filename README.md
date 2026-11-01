@@ -67,8 +67,16 @@ History held only in an old app or the old cloud account cannot automatically be
 
 This is a community test build. Earlier builds were used successfully on a Galaxy S22 with Android 16; the latest build has focused emulator checks. Physical tracker behavior and every phone/provider combination are not fully verified.
 
+## About PIQ Offline
+
+**Unofficial community project**
+
+PIQ Offline is independently maintained and is not affiliated with, endorsed by, or supported by PIQ or Duotone.
+
+Original software, trademarks and artwork remain the property of their respective rights holders. This project provides community modifications for offline use.
+
+This notice does not grant a licence to redistribute third-party software or assets.
+
 ## Project notes
 
 [Build 592 checks](docs/BUILD_592.md) · [APK checksum](downloads/SHA256SUMS) · [Installation and backup guide](docs/GETTING_STARTED.md)
-
-Original software, trademarks and artwork remain the property of their respective rights holders. This project provides community modifications for offline use. The notice above does not grant a licence to redistribute third-party software or assets.
