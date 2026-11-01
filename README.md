@@ -8,9 +8,9 @@ PIQ Offline is a community modification of the original Android app. It was crea
 >
 > Original software, trademarks and artwork remain the property of their respective rights holders. This project provides community modifications for offline use.
 
-<a href="downloads/PIQ-Offline-592.apk?raw=true"><img src="docs/images/download-android.svg" width="320" alt="Download PIQ Offline for Android — APK, build 592"></a>
+<a href="https://raw.githubusercontent.com/RimGu/PIQ-Offline/main/downloads/PIQ-Offline-592.apk"><img src="docs/images/download-android.svg" width="320" alt="Download PIQ Offline for Android — APK, build 592"></a>
 
-**[Download the Android APK](downloads/PIQ-Offline-592.apk?raw=true)** · Build **592** · About **52 MB**
+**[Download the Android APK](https://raw.githubusercontent.com/RimGu/PIQ-Offline/main/downloads/PIQ-Offline-592.apk)** · Build **592** · About **52 MB**
 
 You only need the APK. No coding tools, source-code ZIP or original PIQ account are needed. Android will still ask you to confirm installation.
 

@@ -4,7 +4,7 @@ PIQ Offline is an unofficial Android app modification for the Duotone / North PI
 
 ## 1. Download and install
 
-Open the [Android APK download](../downloads/PIQ-Offline-592.apk?raw=true) on your phone. The file is named `PIQ-Offline-592.apk`, about 52 MB; the installed app is named **PIQ Offline**.
+Open the [Android APK download](https://raw.githubusercontent.com/RimGu/PIQ-Offline/main/downloads/PIQ-Offline-592.apk) on your phone. The file is named `PIQ-Offline-592.apk`, about 52 MB; the installed app is named **PIQ Offline**.
 
 Open it from your browser’s downloads or your phone’s **Files / My Files → Downloads**, then tap **Install** or **Update**. Android may ask you to allow installation from that browser/file manager. No computer, coding tools or GitHub account is needed for the public download.
 
